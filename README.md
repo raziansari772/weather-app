@@ -1,18 +1,24 @@
 # Weather App
 
-A simple weather app built with HTML, CSS, and JavaScript.
+A weather application built using HTML, CSS, and JavaScript.
 
 ## Features
 
-- Search weather by city
-- Temperature display
-- Wind speed display
-- Search history
-- LocalStorage support
+* Search weather by city
+* Shows temperature and wind speed
+* Weather emoji based on temperature
+* Search history
+* LocalStorage support
+* Loading indicator
 
-## Technologies Used
+## Technologies
 
-- HTML
-- CSS
-- JavaScript
-- Open-Meteo API
+* HTML
+* CSS
+* JavaScript
+* Open-Meteo Geocoding API
+* Open-Meteo Weather API
+
+## Author
+
+RAZIANSARI
